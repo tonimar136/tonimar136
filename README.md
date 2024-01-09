@@ -3,9 +3,8 @@
 Eu sou o Tonimar Rodrigues
 
 - 🔭 Trabalho como analista/desenvolvedor
-- 🌱 Estou estudando Laravel
+- 🌱 Estou Estudando: Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS
 - 👯 Trabalho na Vancouros
-- 🤔 Laravel
 - 📫 Contate-me no email: tonimar@outlook.com - (43) 98847-7220
 - ⚡ Hobby: Estar com a família, Jogos de sobrevivência e observar as constelações
 
