@@ -9,12 +9,13 @@ Eu sou o Tonimar Rodrigues
 - 📫 Contate-me no email: tonimar@outlook.com - (43) 98847-7220
 - ⚡ Hobby: Estar com a família, Jogos de sobrevivência e observar as constelações
 
-<div>
-  <a href="https://github.com/tonimar136/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=tonimar136&show_icons=true&theme=dark" />
-    <img float="left" margin-left="5px" height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonimar136&layout=compact&langs_count=8&card_width=320&theme=dark" />
-  </a>
-</div>
+<br><br>
+<a href="https://github.com/tonimar136/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=tonimar136&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/tonimar136/convoychat">
+  <img float="left" margin-left="5px" height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonimar136&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
 
 ##
 <h2>Linguagens</h2>
