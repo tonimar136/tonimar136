@@ -12,7 +12,7 @@ Eu sou o Tonimar Rodrigues
 <div>
   <a href="https://github.com/tonimar136/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=tonimar136&show_icons=true&theme=dark" />
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonimar136&layout=compact&langs_count=8&card_width=320&theme=dark" />
+    <img style="float: left; margin-left: 5px" height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonimar136&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a>
 </div>
 
