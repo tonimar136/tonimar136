@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**tonimar136/tonimar136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Tonimar Rodrigues
 
-Here are some ideas to get you started:
+- 🔭 Trabalho como analista/desenvolvedor
+- 🌱 Estou estudando Laravel
+- 👯 Trabalho na Vancouros
+- 🤔 Laravel
+- 📫 Contate-me no email: tonimar@outlook.com - (43) 98847-7220
+- ⚡ Hobby: Estar com a família, Jogos de sobrevivência e observar as constelações
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/tonimar136/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=tonimar136&show_icons=true&theme=dark" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonimar136&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  </a>
+</div>
+
+##
+<h2>Linguagens</h2>
+<div style="display: inline_block"><br>
+  <img align="center" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">ㅤ
+  <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">ㅤ
+  <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">ㅤ
+  <img align="center" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">ㅤ
+<div>
+
+##
+<h2>Redes</h2>
+<div> 
+  <a href="https://instagram.com/tonimar136" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:tonimar@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tonimar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
