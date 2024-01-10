@@ -24,7 +24,9 @@ Eu sou o Tonimar Rodrigues
   <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">ㅤ
   <img align="center" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">ㅤ
   <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />        
-  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />             
+  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
+           <i align="center" width="50" class="devicon-microsoftsqlserver-plain-wordmark"></i>
 <div>
 
 ##
