@@ -6,7 +6,7 @@ Eu sou o Tonimar Rodrigues
 - 🌱 Estou Estudando: Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS
 - 👯 Trabalho na Vancouros
 - 📫 Contate-me no email: tonimar@outlook.com - (43) 98847-7220
-- ⚡ Hobby: Estar com a família, Jogos de sobrevivência e observar as constelações
+- ⚡ Hobby: Estar com a família, jogos de sobrevivência e observar as constelações
 
 <br><br>
 <a href="https://github.com/tonimar136/github-readme-stats">
