@@ -32,6 +32,3 @@ Eu sou o Tonimar Rodrigues
   <a href = "mailto:tonimar@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tonimar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tonimar136/tonimar136/output/github-contribution-grid-snake.svg" />
